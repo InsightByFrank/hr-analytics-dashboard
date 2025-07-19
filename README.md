@@ -3,17 +3,22 @@
 
 A powerful **Power BI dashboard** designed to visualize and analyze employee performance, compensation, attrition, and departmental insights. This project delivers a strategic view of HR metrics to support data-driven decisions for business leaders, HR teams, and consultants.
 
-<img width="1352" height="751" alt="Screenshot 2025-05-19 203511" src="https://github.com/user-attachments/assets/a5974786-cf5d-45f8-8269-c4460bd7acae" />
+### 📸 Dashboard Snapshots
 
-<img width="1366" height="746" alt="Screenshot 2025-05-19 203544" src="https://github.com/user-attachments/assets/dd0976cc-ff34-4384-9bbf-fad6aa68d083" />
+#### Executive Overview
+![Executive Overview](https://github.com/your-username/hr-analytics-dashboard/blob/main/Screenshot%202025-05-19%20203511.png?raw=true)
 
-<img width="1364" height="748" alt="Screenshot 2025-05-19 203618" src="https://github.com/user-attachments/assets/148dbf23-1763-4e62-9122-a5283fe2e143" />
+#### Department & Role Insight
+![Department Insight](https://github.com/your-username/hr-analytics-dashboard/blob/main/Screenshot%202025-05-19%20203544.png?raw=true)
 
-<img width="1363" height="752" alt="Screenshot 2025-05-19 203642" src="https://github.com/user-attachments/assets/10eea4db-e385-4c9f-b91f-38cbc6367c78" />
+#### Performance & Compensation
+![Performance](https://github.com/your-username/hr-analytics-dashboard/blob/main/Screenshot%202025-05-19%20203618.png?raw=true)
 
-<img width="1387" height="747" alt="Screenshot 2025-05-19 203701" src="https://github.com/user-attachments/assets/79dcb1cb-ed78-4251-9847-68ab24f2a234" />
+#### Attrition & Retention
+![Attrition](https://github.com/your-username/hr-analytics-dashboard/blob/main/Screenshot%202025-05-19%20203642.png?raw=true)
 
-
+#### Employee Comparison
+![Employee Comparison](https://github.com/your-username/hr-analytics-dashboard/blob/main/Screenshot%202025-05-19%20203701.png?raw=true)
 
 
 ---
