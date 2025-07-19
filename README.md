@@ -13,7 +13,8 @@ A powerful **Power BI dashboard** designed to visualize and analyze employee per
 
 
 #### Performance & Compensation
-<img width="1352" height="751" alt="Screenshot 2025-05-19 203511" src="https://github.com/user-attachments/assets/c28153fa-9233-404d-af22-038d9ce5d3a8" />
+<img width="1364" height="748" alt="Screenshot 2025-05-19 203618" src="https://github.com/user-attachments/assets/b641acb5-8100-437f-8db2-7b4cab226de2" />
+
 
 #### Attrition & Retention
 <img width="1363" height="752" alt="Screenshot 2025-05-19 203642" src="https://github.com/user-attachments/assets/9e9fd7f6-5ad7-4910-a91a-920143a49928" />
