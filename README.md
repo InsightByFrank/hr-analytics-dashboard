@@ -6,19 +6,22 @@ A powerful **Power BI dashboard** designed to visualize and analyze employee per
 ### 📸 Dashboard Snapshots
 
 #### Executive Overview
-![Executive Overview](https://github.com/your-username/hr-analytics-dashboard/blob/main/Screenshot%202025-05-19%20203511.png?raw=true)
+<img width="1498" height="855" alt="Screenshot 2025-05-19 194706" src="https://github.com/user-attachments/assets/d89d039e-0c25-4781-8e11-23079e06f2ec" />
 
 #### Department & Role Insight
-![Department Insight](https://github.com/your-username/hr-analytics-dashboard/blob/main/Screenshot%202025-05-19%20203544.png?raw=true)
+<img width="1509" height="856" alt="Screenshot 2025-05-19 194742" src="https://github.com/user-attachments/assets/506395e0-2f26-473b-8fd2-b25b2e2c7c83" />
+
 
 #### Performance & Compensation
-![Performance](https://github.com/your-username/hr-analytics-dashboard/blob/main/Screenshot%202025-05-19%20203618.png?raw=true)
+<img width="1352" height="751" alt="Screenshot 2025-05-19 203511" src="https://github.com/user-attachments/assets/c28153fa-9233-404d-af22-038d9ce5d3a8" />
 
 #### Attrition & Retention
-![Attrition](https://github.com/your-username/hr-analytics-dashboard/blob/main/Screenshot%202025-05-19%20203642.png?raw=true)
+<img width="1363" height="752" alt="Screenshot 2025-05-19 203642" src="https://github.com/user-attachments/assets/9e9fd7f6-5ad7-4910-a91a-920143a49928" />
+
 
 #### Employee Comparison
-![Employee Comparison](https://github.com/your-username/hr-analytics-dashboard/blob/main/Screenshot%202025-05-19%20203701.png?raw=true)
+
+<img width="1387" height="747" alt="Screenshot 2025-05-19 203701" src="https://github.com/user-attachments/assets/f33a982b-6d79-4fcd-a3cf-ae91b9c7ac87" />
 
 
 ---
